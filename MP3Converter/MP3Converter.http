@@ -1,0 +1,6 @@
+@MP3Converter_HostAddress = http://localhost:5098
+
+GET {{MP3Converter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
